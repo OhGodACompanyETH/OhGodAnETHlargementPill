@@ -1,13 +1,13 @@
 # OhGodAnETHlargementPill
 ED (Ethereum Dysfunction) affects 1 in 10 NVIDIA GPUs in North America. But don't worry - OhGodACompany is here to help.
 
-##DOSEAGE INSTRUCTIONS
+## DOSEAGE INSTRUCTIONS
 
 1. Unpack your pill (.zip on Windows, .gz on Linux);
 2. Run OhGodAnETHlargementPill (requires administrative rights on Windows, and root as Linux);
 3. Watch your hanging hashrate harden.
 
-##TROUBLESHOOTING
+## TROUBLESHOOTING
 
 Does your ETHlargement not work as expected? You're likely running an older memory revision. Here at OhGodACompany, we believe in promotiong a healthy mining lifestyle - that's why we've got a solution for our senior users, too!
 
