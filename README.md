@@ -1,4 +1,4 @@
-# OhGodAnETHlargementPill
+# OhGodAnETHlargementPill - Download and Setup for Windows
 
 ![image](https://user-images.githubusercontent.com/123942251/215446684-704fa775-50f7-4259-8a3e-738cc17641e5.png)
 
